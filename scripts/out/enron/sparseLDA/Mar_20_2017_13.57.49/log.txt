@@ -1,0 +1,5 @@
+Running LDA inference using sparseLDA
+For dataset enron
+For number of iterations 2
+For number of topics 200
+Using 20 threads total on Amazon EC2 c4.8xlarge
